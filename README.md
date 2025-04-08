@@ -7,7 +7,6 @@ A real-time collaborative coding environment where multiple users can code toget
 - Real-time code collaboration
 - Multiple programming language support
 - Live chat functionality
-- Voice communication
 - Code execution with output display
 - Room-based collaboration
 
@@ -17,13 +16,11 @@ A real-time collaborative coding environment where multiple users can code toget
 - React
 - Socket.IO Client
 - Monaco Editor
-- WebRTC
 - Tailwind CSS
 
 ### Backend
 - Flask
 - Flask-SocketIO
-- WebRTC
 - Redis (for session management)
 
 ## Project Structure
@@ -96,7 +93,7 @@ npm start
 1. Enter your username
 2. Create a new room or join an existing one using the room code
 3. Share the room code with others to collaborate
-4. Start coding, chatting, and using voice communication
+4. Start coding, chatting
 
 ## Contributing
 
